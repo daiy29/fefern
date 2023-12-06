@@ -4,7 +4,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <img src="/images/fefern.jpg" alt="Fefern" />
-      <p>A fefern is a very vicious creature</p>
+      <p>A fefern is a very very vicious creature</p>
     </div>
   );
 };
